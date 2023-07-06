@@ -1,0 +1,132 @@
+@media screen  and (max-width: 800px) {
+
+    .SpcecialH1{
+        color: black;
+        font-size: 50px;
+        font-weight: 500;
+        letter-spacing: -3px;
+        line-height: 50px;
+        white-space: nowrap;
+        margin-bottom: 20px;
+     }
+     
+     
+     .SpcecialH3{
+         font-weight: lighter;
+         font-size: 20px;
+         line-height: 20px;
+         font-weight: 400;
+         margin-bottom: 30px;
+     }
+
+     #services h1{
+        color: black;
+      
+        font-weight: 400;
+      
+     } 
+    br{
+        display: none;
+    }
+    #newline
+    {
+        display: block;
+    }
+    
+    .col-4-margin h1{
+        color: black;
+        font-weight: 400;
+        margin-bottom: 15px;
+     }
+
+     #team h1{
+        color: black;
+        font-weight: 400;
+        margin-bottom: 15px;
+     }
+
+     #blog h1{
+        color: black;
+        font-weight: 400;
+        margin-bottom: 15px;
+     }
+
+     .margin-img-top {
+        margin-top: 110px;
+    }
+
+    .col-4-margin1 h1{
+        color: black;
+        font-weight: 400;
+        margin-bottom: 25px;
+     }
+
+     .CLIENTS h1
+     {
+        color: black; 
+        font-weight: 400;
+        margin-bottom: 25px;
+     }
+     .BlueSection h1{
+        color: white;
+      
+        font-weight: 400;
+
+        margin-bottom: 25px;
+    }
+
+}
+
+@media screen  and (max-width: 1100px) {
+
+    .margin-img-top {
+        margin-top: 110px;
+    }
+
+    .SpcecialH1{
+        color: black;
+        font-size: 60px;
+        font-weight: 500;
+        letter-spacing: -3px;
+        line-height: 60px;
+        white-space: nowrap;
+        margin-bottom: 20px;
+     }
+     
+     #services h1{
+        color: black;
+        font-size: 40px;
+        font-weight: 500;
+        letter-spacing: -2px;
+        line-height: 40px;
+        
+        margin-bottom: 25px;
+     }
+     .SpcecialH3{
+         font-weight: lighter;
+         font-size: 22px;
+         line-height: 22px;
+         font-weight: 400;
+         margin-bottom: 30px;
+     }
+
+
+    
+}
+
+
+@media screen  and (max-width: 1500px) {
+
+    .margin-img-top {
+        margin-top: 110px;
+    }
+ 
+}
+
+@media screen  and (max-width: 600px) {
+
+    .margin-img-top {
+        margin-top: 0;
+    }
+ 
+}

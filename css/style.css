@@ -1,0 +1,236 @@
+*
+{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;  
+    
+}
+
+
+.navbar-link:hover
+{
+    color: #0d6efd !important;
+    cursor: pointer;
+}
+
+
+.HomeSecetion
+{
+   background-color: #dcf4fe;
+   padding-top: 10%;
+   padding-bottom: 10%; 
+} 
+
+
+.SpcecialH1{
+   color: black;
+   font-size: 80px;
+   font-weight: 500;
+   letter-spacing: -5px;
+   line-height: 80px;
+   white-space: nowrap;
+   margin-bottom: 25px;
+}
+
+
+.SpcecialH3{
+    font-weight: lighter;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+#about
+{
+    margin-top: 130px;
+    margin-top: 130px;
+}
+
+
+.Digital-h2
+{
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 55px;
+}
+
+
+
+#newline
+    {
+        display: none;
+    }
+
+
+#services
+{
+    margin-top: 130px;
+    background-color: #f5f5f5;
+    padding-bottom: 8%;
+}
+
+#services h5{
+
+    padding-top: 130px;
+}
+
+#services h1{
+    color: black;
+    font-size: 55px;
+    font-weight: 800;
+    letter-spacing: -2px;
+    line-height: 55px;
+    white-space: nowrap;
+    margin-bottom: 25px;
+ }
+
+.col-4-margin
+{
+    margin-top: 150px;
+    
+}
+ 
+.col-4-margin h1{
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: -2px;
+    line-height: 50px;
+    white-space: nowrap;
+    margin-bottom: 25px;
+ }
+
+
+ .accordion-button:hover
+ {
+    background-color: #0d6efd !important;
+    color: white !important;
+ }
+
+
+
+
+#portfolio
+{
+    margin-top: 130px;
+}
+
+ #portfolio h1
+ {
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: -2px;
+    line-height: 50px;
+    white-space: nowrap;
+    margin-bottom: 25px;
+ }
+
+ .tablinks
+ {
+    padding-right: 30px;
+    color: gray;
+    font-weight: 400;
+    font-size: 1.2rem;
+    border: none;
+ }
+
+ .tablinks:focus {     
+    color:#0d6efd; 
+    border: none;   
+}
+
+.tabcontent-width
+{
+    width: 95%;
+    margin: auto;
+}
+
+
+
+
+
+#team
+{
+    margin-top: 30px;
+    background-color: #f5f5f5;
+    
+}
+
+#team h5{
+
+    padding-top: 130px;
+}
+
+#team h1{
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: -2px;
+    line-height: 50px;
+    white-space: nowrap;
+    margin-bottom: 15px;
+ }
+
+
+
+
+
+ #pricing{
+    margin-bottom: 110px;
+ }
+
+#pricing h5{
+    padding-top: 130px;
+}
+
+#pricingh1{
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: -2px;
+    line-height: 50px;
+    white-space: nowrap;
+    margin-bottom: 15px;
+ }
+
+ .pricing-width
+ {
+    width: 70%;
+    margin: auto;
+ }
+
+ .top-card-0
+ {
+    background-color: #5a6268;
+ }
+
+ .top-card-0 p{
+    
+    padding-left: 20px;
+ }
+
+
+
+ .top-card-1 p{
+    
+    padding-left: 20px;
+ }
+
+ .top-card-1
+ {
+    background-color: #0d6efd;
+ }
+
+
+
+
+ /* ul
+{
+    list-style-type: none;
+} */
